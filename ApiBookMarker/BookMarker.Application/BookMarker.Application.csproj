@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Unity" Version="5.5.6" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\BookMarker.Data\BookMarker.Infra.Data.csproj" />
     <ProjectReference Include="..\BookMarker.Domain\BookMarker.Domain.csproj" />
     <ProjectReference Include="..\Core.Domain\BookMarker.Core.Domain.csproj" />

@@ -2,10 +2,6 @@ F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Application\obj\Debug\netstandard
 F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.csproj.CoreCompileInputs.cache
 F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.AssemblyInfoInputs.cache
 F:\Pessoal\AppBookMarker\BookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.AssemblyInfo.cs
-F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.csprojResolveAssemblyReference.cache
-F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.csproj.CoreCompileInputs.cache
-F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.AssemblyInfoInputs.cache
-F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.AssemblyInfo.cs
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\bin\Debug\netstandard2.0\BookMarker.Application.deps.json
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\bin\Debug\netstandard2.0\BookMarker.Application.dll
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\bin\Debug\netstandard2.0\BookMarker.Application.pdb
@@ -17,5 +13,9 @@ F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Applicatio
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\bin\Debug\netstandard2.0\BookMarker.Domain.pdb
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\bin\Debug\netstandard2.0\BookMarker.Core.Domain.pdb
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\bin\Debug\netstandard2.0\BookMarker.Core.Infra.pdb
+F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.csprojResolveAssemblyReference.cache
+F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.csproj.CoreCompileInputs.cache
+F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.AssemblyInfoInputs.cache
+F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.AssemblyInfo.cs
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.dll
 F:\Pessoal\Desenvolvimento\Api\ApiBookMarker\ApiBookMarker\BookMarker.Application\obj\Debug\netstandard2.0\BookMarker.Application.pdb
